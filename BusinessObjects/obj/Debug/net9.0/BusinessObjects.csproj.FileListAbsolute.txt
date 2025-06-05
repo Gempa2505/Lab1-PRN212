@@ -1,0 +1,4 @@
+D:\PRN212\Lab1-PRN212\BusinessObjects\obj\Debug\net9.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Lab1-PRN212\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN212\Lab1-PRN212\BusinessObjects\obj\Debug\net9.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN212\Lab1-PRN212\BusinessObjects\obj\Debug\net9.0\BusinessObjects.csproj.CoreCompileInputs.cache

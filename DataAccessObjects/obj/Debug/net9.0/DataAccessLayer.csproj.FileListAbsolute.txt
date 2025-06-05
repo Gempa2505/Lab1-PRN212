@@ -1,0 +1,4 @@
+D:\PRN212\Lab1-PRN212\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\Lab1-PRN212\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PRN212\Lab1-PRN212\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\PRN212\Lab1-PRN212\DataAccessObjects\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
